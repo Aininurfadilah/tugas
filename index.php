@@ -101,7 +101,7 @@ h4{font-size:85%;}
 					<div style="color:white">
 					<label>WEB INVENTORY </label><br \>
 					<label>Login information  :</label><br \>
-					<label>Username & Password :t</label><br \>
+					<label>Username & Password :</label><br \>
 					</div>
                 <form method="post">
                     <div class="form-group">
